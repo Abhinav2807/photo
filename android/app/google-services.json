@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972272116946",
+    "firebase_url": "https://photo-93c9a.firebaseio.com",
+    "project_id": "photo-93c9a",
+    "storage_bucket": "photo-93c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972272116946:android:6efeeb72b009cd31d9390b",
+        "android_client_info": {
+          "package_name": "com.example.photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972272116946-n5cta2rm80stm6dgt852a6kupu97c8nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmuTr05bo7iM2DJzcV0M5rrTcYUlU8Avs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972272116946-n5cta2rm80stm6dgt852a6kupu97c8nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
